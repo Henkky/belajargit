@@ -1,0 +1,9 @@
+spring:
+    message:
+        Hello from YAML
+
+api:
+  url:
+    htttps://jsonplaceholder.typicode.com/posts
+  dataType:
+    json
